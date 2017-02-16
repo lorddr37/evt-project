@@ -1,0 +1,20 @@
+.spoiler {
+	
+}
+.spoiler .title{
+	
+}
+.spoiler .text{
+		display:none;
+}
+
+a {
+	color: white;
+	}
+.aaa{
+	text-align: center;
+}
+.aaa:hover {
+	color: white;
+	cursor: pointer;
+}
